@@ -1,11 +1,11 @@
 # **Giovanni Lopes Brandolise**
 
-- 🤝 Opa, beleza? Meu nome é Giovanni Brandolise.
-- 👀 Meu objetivo é me tornar um programador full-stack!
-- 🤓 Atualmente eu tenho estudado mais a parte de Front-end (HTML, CSS, JavaScript Vanilla).
-- 🎓 Sou estudante da Universidade Tecnologica Federal do Parana em Engenharia Eletrônica.
-- 💻 A Linguagem que eu mais tenho estudado e entrado a fundo é JavaScript e futuramente vou estudar mais sobre seus frameworks.
-- 🐍 Porém também tenho uma quedinha por python...
+- Opa, beleza? Meu nome é Giovanni Brandolise.
+- Meu objetivo é me tornar um programador full-stack!
+- Atualmente eu tenho estudado mais a parte de Front-end (HTML, CSS, JavaScript Vanilla).
+- Sou estudante da Universidade Tecnologica Federal do Parana em Engenharia Eletrônica.
+- A Linguagem que eu mais tenho estudado e entrado a fundo é JavaScript e futuramente vou estudar mais sobre seus frameworks.
+- Porém também tenho uma quedinha por python...
 
 
 ## **Mais Infos do meu Git**
