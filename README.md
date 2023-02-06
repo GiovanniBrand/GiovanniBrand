@@ -8,27 +8,10 @@
 - 🐍 Porém também tenho uma quedinha por python...
 
 
-## **Um pouco mais de dados**
+## **Mais Infos do meu Git**
 
-<style>
-  .data{
-    display:flex;
-    justify-content: space-around; 
-  }
 
-  .data a{
-    border-radius: 10px;
-  }
-
-  .container__contact{
-    width:30%;
-    display:flex;
-    justify-content: space-between; 
-  }
-
-</style>
-
-<div class="data">
+<div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=GiovanniBrand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniBrand&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -36,7 +19,7 @@
 ## **Fale Comigo**
 
 
-<div class="container__contact">
+<div>
   <a href="https://www.instagram.com/giovannilbrandolise/">
     <img src="https://github.com/GiovanniBrand/GiovanniBrand/blob/main/insta.png">
   </a>
